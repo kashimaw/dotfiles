@@ -1,0 +1,17 @@
+*.bak
+*~
+
+.ssh/
+
+.env
+.env.local
+.env.*.local
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.Trash-*
+
+Thumbs.db
+Desktop.ini
